@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name         amoled tanki
+@version      2
+@namespace    https://userstyles.world/user/doomersson
+@description  UI experiment for tankionline.com/play
+@updateURL https://raw.githubusercontent.com/doomersson/super-doom/main/tonktheme.css
+@author       doomersson
+@license      MIT
+==/UserStyle== */
 @-moz-document domain("tankionline.com"), domain("https://public-deploy1.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy2.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy3.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy4.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy5.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy6.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy7.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy8.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy9.test-eu.tankionline.com/browser-public/index.html") {
 .Common-container {
     width: 100vw;
