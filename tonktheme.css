@@ -1,0 +1,792 @@
+@-moz-document domain("tankionline.com"), domain("https://public-deploy1.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy2.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy3.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy4.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy5.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy6.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy7.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy8.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy9.test-eu.tankionline.com/browser-public/index.html") {
+.Common-container {
+    width: 100vw;
+    height: 100vh;
+    background: 
+        linear-gradient(90deg,#55000057, #55550085, #0055006b, #00555575, #0000557d, #55005578, #5500006b),
+        url(https://tankionline.com/play/static/images/legendPlusBg.295a98bb.gif);
+    background-size: 609% 600%, 50% 100%;
+    background-position: 0% 50%, center; /* Keep gradient animation and center the image */
+    background-repeat: repeat;
+    animation: gradient-loop 20s infinite;
+}   
+
+@keyframes gradient-loop {
+    0% {
+        background-position: 0% 50%, center;
+    }
+    50% {
+        background-position: 100% 50%, center;
+    }
+    100% {
+        background-position: 0% 50%, center;
+    }
+}
+.GearScoreStyle-bestGS {
+    background-image: linear-gradient(to left, rgb(40, 255, 203) 0%, rgb(255, 235, 51) 100%));
+    text-transform: uppercase;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: rgb(255, 235, 51);
+    z-index: 3;
+    font-family: RubikRegular;
+    font-style: normal;
+    font-weight: normal;
+    animation: shine-loop 3s ease-in-out infinite;
+    background-size: 200% 100%;
+}
+
+@keyframes shine-loop {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: 100% 0%;
+    }
+    100% {
+        background-position: 0% 0%;
+    }
+}
+.BattleTabStatisticComponentStyle-containerInsideResults {
+       background-color: rgba(0, 0, 0, .76);
+    background-image: linear-gradient(#0000, rgb(0, 0, 0)), url(https://tankionline.com/play/static/images/legendPlusBg.295a98bb.gif);
+    opacity: 0.88;
+    background-size: contain;
+    border-radius: 0em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: rgba(255, 255, 255, 0.15) 0em 0em 1px;
+    position: relative;
+    max-height: 52.5em;
+    height: auto;
+    margin-top: -2.5em;
+    width: 56em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: start;
+}.BattleTabStatisticComponentStyle-selectedRowBackGround {
+    border-radius: 0.25em;
+    cursor: pointer;
+    background-color: #ff620038;
+}.BattleTabStatisticComponentStyle-rowBackGround {
+    border-radius: 0.25em;
+    cursor: pointer;
+    background-color: rgba(82, 6, 6, .19);
+}.ListItemsComponentStyle-itemsListContainer {
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    bottom: 0px;
+    width: 100%;
+    position: relative;
+    height: auto;
+    background: linear-gradient(rgba(38, 0, 0, 0) 0%, #0000004d 100%);
+    z-index: 1;
+    -webkit-box-align: center;
+    -webkit-box-pack: start;
+}.LobbyLoaderComponentStyle-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: auto;
+    background: radial-gradient(50% 100% at 50% 100%, #000 0%, rgb(0 0 0) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+}.SuppliesComponentStyle-containersBlocks {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    height: 9.5em;
+    min-width: 33.125em;
+    padding-top: 1.5em;
+    width: 50%;
+    -webkit-box-align: center;
+    -webkit-box-pack: start;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+}.SuppliesComponentStyle-cellAdd {
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0em;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 5em;
+    position: relative;
+    margin-right: 0.625em;
+    box-shadow: #bc6ff100 0em 0em 0em 0.063em;
+    z-index: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+}.BattleTabStatisticComponentStyle-containerInsideTeams {
+    background-color: rgba(0, 0, 0, .76);
+  /*  background-image: linear-gradient(#0000006e, rgba(0, 0, 0, .17)), url(https://tankionline.com/play/static/images/sparks.990b5664.webp); */
+    opacity: 0.88;
+    border-radius: 0em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: rgba(255, 255, 255, 0.15) 0em 0em 1px;
+    position: relative;
+    max-height: 52.5em;
+    height: auto;
+    margin-top: -2.5em;
+    width: 97em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: start;
+}.BattleTabStatisticComponentStyle-blueTeamTableContainer table tbody tr {
+    display: flex;
+    align-items: center;
+    height: 2.5em;
+    margin-top: 0.313em;
+    width: 47.125em;
+    -webkit-box-align: center;
+}.BattleTabStatisticComponentStyle-redTeamTableContainer table tbody tr {
+    display: flex;
+    align-items: center;
+    height: 2.5em;
+    margin-top: 0.313em;
+    width: 47.125em;
+    -webkit-box-align: center;
+}.BattleTabStatisticComponentStyle-blueTeamTableContainer table thead {
+    display: flex;
+    width: 100%;
+    height: 2.5em;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    top: -50.75em;
+}.BattleTabStatisticComponentStyle-redTeamTableContainer table thead {
+    display: flex;
+    width: 100%;
+    height: 2.5em;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    top: -50.75em;
+}.BattleTabStatisticComponentStyle-blueTeamTableContainer table tbody {
+    --row-background-color: rgba(170, 170, 170, .16);
+    --selected-row-background-color: #ff620038;
+}.BattleTabStatisticComponentStyle-redTeamTableContainer table tbody {
+    --row-background-color: rgba(66, 65, 65, .18);
+    --selected-row-background-color: rgb(0, 0, 0);
+}.BattlePassLobbyComponentStyle-menuBattlePass {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 22.5em;
+    height: 10em;
+    position: absolute;
+    margin-top: 8.5em;
+    background: linear-gradient(0deg, #000 0%, rgb(0 0 0) 100%);
+    right: 2.5em;
+    z-index: 1;
+    cursor: pointer;
+    border-radius: 0em;
+    filter: drop-shadow(#191919 0px 4px 4px);
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: start;
+    -webkit-box-pack: start;
+    transition: all 0.2s ease-in-out 0s;
+}
+.PrimaryMenuItemComponentStyle-itemCommonLi:hover {
+    box-shadow: inset #000 0em 0em 1em 0.5em;
+    border-radius: 0em;
+}.FooterComponentStyle-containerMenu:hover {
+    width: 5em;
+    height: 5em;
+    border-radius: 0em;
+    box-shadow: #000 0em 0em 1em 0.5em;
+}.ScrollingCardsComponentStyle-scrollCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: #2f2f2f 0em 0em 0.3em 1px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 0em;
+    height: 100%;
+    margin-right: 1em;
+    min-width: 22.5em;
+    position: relative;
+    z-index: 4;
+    overflow: hidden;
+    cursor: pointer;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: start;
+    transition: all 0.2s ease-in-out 0s;
+}.UserProgressComponentStyle-modalWrapper {
+    background: radial-gradient(50% 100% at 50% 100%, #202020 0%, rgb(0 0 0) 100%);
+    width: 100%;
+    min-height: 28.125em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 3.75em;
+    padding-bottom: 3.75em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+}.ModalStyle-rootHover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(50% 500% at 50% 100%, #0003 0%, rgba(0, 0, 0, .33) 100%);
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+}.ItemDescriptionComponentStyle-commonBlockModal {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    background: radial-gradient(192.86% 100% at 0% 100%, #000 0%, rgba(191, 213, 255, 0) 100%), rgb(0 25 38 / 4%);
+    cursor: default;
+    height: 100%;
+    max-width: 34em;
+    position: absolute;
+    right: 0px;
+    width: 34em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: stretch;
+    -webkit-box-pack: start;
+}.ContextMenuStyle-menu {
+    backdrop-filter: blur(0.1em);
+    background-color: rgb(0 0 0 / 48%);
+    box-shadow: #52057b 0px 0px 0.063em 0px;
+    min-width: 18.25em;
+    width: auto;
+    position: relative;
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: stretch;
+    -webkit-box-pack: start;
+}.ClanInvitationsComponentStyle-invitationContent {
+    background: radial-gradient(50% 100% at 50% 100%, #000 0%, rgb(0 0 0) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 46.313em;
+    width: 74em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: start;
+}.EventBattlePassLobbyComponentStyle-buttonEventBattlePass {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background: radial-gradient(106.67% 100% at 0% 0%, #000 0%, rgb(0 0 0 / 37%) 100%);
+    border-radius: 0em;
+    cursor: pointer;
+    height: 9em;
+    padding: 0.5em;
+    position: absolute;
+    right: 26.5em;
+    top: 8.5em;
+    width: 8.375em;
+    backdrop-filter: blur(0.781em);
+    box-shadow: #252525 0em 0em 0em 1px;
+    z-index: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: start;
+}.AnnouncementHomeScreenComponentStyle-mainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 2.5em;
+    right: 2.5em;
+    width: 22.5em;
+    height: auto;
+    z-index: 2;
+    backdrop-filter: blur(0.781em);
+    background-color: rgba(0, 25, 38, 0.25);
+    border: 0.063em solid rgba(255, 255, 255, 0.25);
+    /* border-radius: 0; */
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+    transition: all 0.2s ease-in-out 0s;
+}.SuccessfulPurchaseComponentStyle-container {
+    width: 31.625em;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.313em 1.25em;
+    background: radial-gradient(50% 100% at 50% 100%, rgba(89, 10, 10, .39) 0%, rgb(0 0 0) 100%);
+    padding: 2em;
+}.NewsComponentStyle-newsWindow {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background: radial-gradient(50% 100% at 50% 100%, #000 0%, rgb(0 0 0) 100%);
+    width: 53em;
+    min-width: 53em;
+    height: 100%;
+    flex: 0 0 auto;
+    position: fixed;
+    align-self: flex-start;
+    z-index: 30;
+    animation: 0.3s linear 0s 1 normal none running ksc-keyframe-25;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-pack: start;
+    -webkit-box-align: start;
+    -webkit-box-flex: 0;
+    user-select: text;
+}.DialogContainerComponentStyle-container {
+    background: radial-gradient(100% 100% at 0% 0%, rgb(0 0 0 / 75%) 0%, rgba(255, 204, 0, 0) 100%), rgba(0, 0, 0, .75);
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+    pointer-events: auto;
+    width: 31.625em;
+    min-height: 14.125em;
+    z-index: 60;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.313em 1.25em 0px;
+    outline: rgba(255, 255, 255, 0.25) solid 0.063em;
+    padding: 2em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: stretch;
+    -webkit-box-pack: justify;
+}
+.MainScreenComponentStyle-playButtonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 23.75em;
+    height: 10.75em;
+    background-color: #000000ba;
+    border-radius: 0px 0px;
+    box-shadow: #25252582 0em 0em 1em 0em;
+    box-sizing: border-box;
+    z-index: 4;
+    cursor: pointer;
+    position: relative;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+    transition: all 0.2s ease-in-out 0s;
+}.MainScreenComponentStyle-playButtonContainer span {
+    font-family: RubikMedium;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 1.em;
+    color: rgba(255, 255, 255, .62);
+    opacity: 0.8;
+}.MainScreenComponentStyle-playButtonContainer:hover {
+    box-shadow: rgb(0, 0, 0) 0em 0em 1em 5px;
+    border: 0px none transparent;
+}.MainScreenComponentStyle-buttonPlay {
+    backdrop-filter: blur(0em);
+    background-image: url(null);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 21.875em;
+    height: 10.75em;
+}.TooltipStyle-tooltip {
+    position: relative;
+    background-color: rgb(0 0 0 / 71%);
+    border: 0.063em solid rgba(191, 213, 255, 0.25);
+    /* border-radius: 0.25em; */
+    backdrop-filter: blur(0.313em);
+}.SuppliesComponentStyle-screenShotButtonOpen {
+    /* background-image: url(/play/static/images/transitionToWindowScreenShotTanks.f3eeaa44.svg); */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    cursor: pointer;
+    width: 15em;
+    height: 3em;
+}.ScrollingCardsComponentStyle-scrollCardPick {
+    display: flex;
+    height: 100%;
+    min-height: 44em;
+    margin-bottom: 1em;
+    margin-top: 2em;
+    overflow: auto hidden;
+    padding-bottom: 1em;
+    padding-top: 0.25em;
+    position: relative;
+    width: 100%;
+    z-index: 3;
+    -webkit-box-align: start;
+    -webkit-box-pack: start;
+    flex-wrap: wrap;
+    flex-direction: column;
+}.LobbyLoaderComponentStyle-logo {
+    width: 8em;
+    height: 6.75em;
+    opacity: 0;
+}.ChatComponentStyle-chatWindow {
+    /*    background-image: url(/play/static/images/videoplay.79570900.png);*/
+    background-color: rgba(0, 0, 0, 0.8); /* Adjust the alpha value for desired transparency */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 37.5em;
+    min-width: 37.5em;
+    max-width: 70%;
+    height: 100%;
+    flex: 0 0 auto;
+    position: fixed;
+    align-self: flex-end;
+    right: 0px;
+    z-index: 30;
+    box-shadow: rgba(255, 255, 255, 0.25) 1px 0px 0px inset;
+    animation: 0.3s linear 0s 1 normal none running ksc-keyframe-539;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: start;
+    -webkit-box-pack: start;
+    -webkit-box-flex: 0;
+    user-select: text;
+    backdrop-filter: blur(10px); /* Adjust the blur value as needed */
+}.ChatComponentStyle-messageRow {
+    display: block;
+    width: auto;
+    margin: 0.25em 0.625em 0px 1.25em;
+    box-sizing: border-box;
+    /* border-radius: 0.5em; */
+    padding: 0.25em 0.5em;
+    background-color: rgba(0, 0, 0, 0);
+    word-break: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.25em;
+}.ChatComponentStyle-chatRegularUser {
+    color: #12ff01;
+    margin-left: 0px;
+    margin-right: 0.3em;
+    font-size: 0.9375em;
+    float: left;
+}.InvitationWindowsComponentStyle-commonItem {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    width: 27.5em;
+    background-color: rgba(0, 0, 0, .9);
+    position: absolute;
+    left: 5.9375em;
+    top: 6.0625em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: stretch;
+    -webkit-box-pack: start;
+}.Common-entranceGradient {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px;
+    min-width: 80em;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: linear-gradient(rgba(0, 25, 38, 0) 0%, rgba(0, 25, 38, 0) 100%);
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+}body h1, body h2, body h3, body h4, body span, body p {
+    font-size: 1em;
+    color: #fff;  /*margin: 0;*/
+}.BattleKillBoardComponentStyle-tableContainer table tbody tr td:nth-child(1) span {
+    margin-left: 0px;
+    color: rgb(255, 255, 255);
+}.ChatComponentStyle-closeArea {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 30;
+    background-color: rgb(0 0 0 / 0%);
+    cursor: pointer;
+    top: 0px;
+}.FriendListComponentStyle-blockList {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: radial-gradient(ellipse at top, #00000026, transparent), radial-gradient(ellipse at bottom, #0000004f, transparent);
+    border: 1px solid #131313;
+    width: 35em;
+    cursor: pointer;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+}.FriendListComponentStyle-substrateRhombus {
+    width: 2.813em;
+    height: 2.813em;
+    position: relative;
+    background-color: #0000003d;
+    transform: rotate(45deg);
+    margin: 0.313em;
+    box-shadow: rgba(0, 0, 0, 0.1) 0.438em 0.438em 0.438em 0px;
+}.Common-activeMenu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    height: auto;
+    position: relative;
+    font-family: RubikBold;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1em;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+}.Common-menuItemActive {
+    position: absolute;
+    bottom: 0px;
+    background-color: #fff;
+    box-shadow: #fff 0em 0em 0.375em;
+    filter: drop-shadow(rgba(183, 183, 183, .19) 0em 0em 0.375em);
+    width: 100%;
+    height: 1px;
+}.ProBattlesComponentStyle-createBattleButton {
+    /* background-color: rgba(118, 255, 51, 0.15); */
+    z-index: 3;
+    border-top: 1px solid rgba(255, 255, 255, 0.25);
+}.ScrollingCardsComponentStyle-cardCount {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #fff;
+    margin-top: 0.5em;
+    z-index: 10;
+    border-radius: 6.25em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: center;
+    -webkit-box-pack: start;
+}.Common-activeMenu:hover {
+    color: #999;
+}MenuComponentStyle-mainMenuItem:hover {
+    color: #c4c4c4;
+}.BattlePickComponentStyle-styleIsEnableBlock:hover {
+    box-shadow: rgb(0 0 0) 0em 0em 0em 2px;
+}.BattlePickComponentStyle-commonStyleBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    /* border-radius: 0.5em; */
+    box-sizing: border-box;
+    height: 16.875em;
+    margin-right: 1em;
+    overflow: hidden;
+    position: relative;
+    box-shadow: rgba(255, 255, 255, 0.25) 0em 0em 0em 1px;
+    width: 30em;
+    z-index: 4;
+    cursor: pointer;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: start;
+    -webkit-box-pack: start;
+}html, body {
+    background-image:url(https://s.eu.tankionline.com/571/11424/333/6/27442305440307/image.webp);
+    width: 100%;
+    height: 100%;
+}.TutorialModalComponentStyle-contentWrapper {
+    display: flex;
+    flex-direction: column;
+    min-width: 31.25em;
+    max-width: 28%;
+    background: radial-gradient(192.86% 100% at 0% 100%, rgba(0, 0, 0, .25) 0%, rgba(0, 0, 0, 0) 100%), rgba(0, 0, 0, .73);
+    position: fixed;
+    height: 100%;
+    right: 0px;
+}.TableMainQuestComponentStyle-cardLockedTable {
+    background-color: rgb(0 0 0 / 15%);
+    box-shadow: rgb(156, 156, 156) 0px 0px 0px 0.063em;
+    cursor: pointer;
+}.TableMainQuestComponentStyle-colorLockedGradientTable {
+    background: linear-gradient(90deg, rgb(114 114 114 / 54%) 0%, rgb(0 0 0 / 40%) 50%), rgb(0 0 0 / 15%);
+    border-radius: 0.5em;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+}.MainQuestComponentStyle-cardPlayCommon {
+    background-color: rgb(0 0 0 / 15%);
+    box-shadow: rgb(61 61 61) 0px 0px 0px 0.063em;
+    cursor: pointer;
+}.ratings {
+    align-items: flex-start;
+    background: #ff33332e;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 2rem 2.5rem 6.875rem;
+    width: 39.5%;
+    z-index: 1;
+}.ratings .rating-list-wrapper .season-wrapper .season.active {
+    background: rgb(255 255 255 / 16%);
+    cursor: default;
+}.BattleKillBoardComponentStyle-tableContainer table thead tr th h2 {
+    font-family: RubikMedium;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.875em;
+    color: rgb(255, 255, 255);  text-shadow:
+    -1px -1px 0 #490000,
+     0   -1px 0 #490000,
+     1px -1px 0 #490000,
+     1px  0   0 #490000,
+     1px  1px 0 #490000,
+     0    1px 0 #490000,
+    -1px  1px 0 #490000,
+    -1px  0   0 #490000;
+/*Thanks to Ouu for this bottom script!*/
+}.BattleKillBoardComponentStyle-tableContainer table tbody #enemyCommand {
+    background-color: #4900007d;
+}.BattleKillBoardComponentStyle-tableContainer table tbody #selfUserBg {
+    background-color: rgb(255 0 0 / 30%);
+}.BattleTabStatisticComponentStyle-resistanceModuleCell {
+    min-width: 10em;
+    width: 10em !important;
+    visibility: unset !important;
+}html {
+    font-size: max(min(1.35vh, 1vw)* 1, 3px);
+/*script from "Tanki Tweaks" extension, thank you Niced!*/
+}.BattleKillBoardComponentStyle-tableContainer table{align-items:center!important;height:42em!important;width:100em!important}.BattleKillBoardComponentStyle-tableContainer table td,.BattleKillBoardComponentStyle-tableContainer table th{box-sizing:border-box!important;flex-shrink:0!important;margin:0!important;max-width:unset!important;min-width:unset!important}.BattleKillBoardComponentStyle-tableContainer table tr{width:49.5em!important}.BattleKillBoardComponentStyle-tableContainer table tr>*{width:9.28%!important}.BattleKillBoardComponentStyle-tableContainer table tr>*>*{margin:0!important}.BattleKillBoardComponentStyle-tableContainer table tr>:first-child{width:35%!important}.BattleKillBoardComponentStyle-tableContainer table>thead{padding-right:1em!important}.BattleKillBoardComponentStyle-tableContainer table>thead>tr{pointer-events:none!important}.BattleKillBoardComponentStyle-tableContainer table>thead>tr>:first-child{padding-left:.75em!important}.BattleKillBoardComponentStyle-tableContainer table>thead>tr>th>:nth-child(2){display:none!important}.BattleKillBoardComponentStyle-tableContainer table>tbody{display:grid!important;gap:.3em 1em!important;grid-auto-flow:column!important;grid-auto-rows:min-content!important;grid-template-columns:1fr 1fr!important;padding-right:1em!important;width:100%!important}.BattleKillBoardComponentStyle-tableContainer table>tbody>tr{grid-column:1/2!important;height:2.5em!important}.BattleKillBoardComponentStyle-tableContainer table>tbody>tr#enemyCommand{grid-column:2/3!important}.BattleKillBoardComponentStyle-tableContainer table>tbody>tr#rowSpace,.BattleKillBoardComponentStyle-tableContainer table>tbody>tr#teamRowSpace{display:none!important}.BattleKillBoardComponentStyle-tableContainer table:not(:has(>tbody>#teamRowSpace)){width:50em!important}.BattleKillBoardComponentStyle-tableContainer table:not(:has(>tbody>#teamRowSpace)) tr{grid-column:1/2!important;width:50em!important}.BattleKillBoardComponentStyle-tableContainer table:not(:has(>tbody>#teamRowSpace))>thead>:nth-child(2){display:none!important}.BattleKillBoardComponentStyle-tableContainer table:not(:has(>tbody>#teamRowSpace))>tbody{grid-template-columns:1fr!important}.BattleResultNavigationComponentStyle-commonBlockButtonNextLeave{flex-direction:row!important;height:8.125em!important;width:17em!important}.BattleResultNavigationComponentStyle-commonBlockButtonNextLeave>:first-child{margin-bottom:0!important;margin-right:.5em!important}.tt-help-container{align-items:center!important;background-color:rgba(0,0,0,.5)!important;display:flex!important;height:100%!important;justify-content:center!important;position:absolute!important;width:100%!important;z-index:61!important}.tt-help-container *{box-sizing:border-box!important}.tt-help-container>.tt-popup{background-color:#2c2f33!important;border-radius:1em!important;color:#fff!important;height:max-content!important;overflow:hidden!important;width:35em!important}.tt-help-container>.tt-popup>*{height:max-content!important;width:100%!important}.tt-help-container>.tt-popup>.tt-header{align-items:center!important;display:flex!important;height:7em!important;justify-content:center!important;position:relative!important}.tt-help-container>.tt-popup>.tt-header>.tt-close-button{align-items:center!important;background-color:#23272a!important;border-radius:0 0 0 .15em!important;color:#ed4245!important;display:flex!important;font-size:2.5em!important;height:1.5em!important;justify-content:center!important;position:absolute!important;right:0!important;top:0!important;width:1.5em!important}.tt-help-container>.tt-popup>.tt-header>.tt-close-button:hover{color:red!important;cursor:pointer!important}.tt-help-container>.tt-popup>.tt-header>.tt-logo-container{align-items:end!important;background-color:#23272a!important;border-radius:0 0 1em 1em!important;display:flex!important;height:100%!important;justify-content:center!important;padding:0 2em .2em!important}.tt-help-container>.tt-popup>.tt-header>.tt-logo-container>.tt-logo-with-copyright{align-items:center!important;display:flex!important;flex-direction:column!important;justify-content:center!important;width:max-content!important}.tt-help-container>.tt-popup>.tt-header>.tt-logo-container>.tt-logo-with-copyright>.tt-logo{width:20em!important}.tt-help-container>.tt-popup>.tt-header>.tt-logo-container>.tt-logo-with-copyright>.tt-copyright{align-self:end!important;bottom:.5em!important;color:#76ff33!important;font-size:1.2em!important;position:relative!important;right:1.5em!important}.tt-help-container>.tt-popup>.tt-content{font-size:1.2em!important;padding:0 1em!important;text-align:center!important}.tt-help-container>.tt-popup>.tt-content>h2{font-size:1.2em!important}.tt-help-container>.tt-popup>.tt-footer{background-color:#23272a!important;font-size:1.2em!important;padding:1em!important;text-align:center!important}.tt-help-container>.tt-popup>.tt-footer>.tt-buttons{display:flex!important;margin-top:1em!important}.tt-help-container>.tt-popup>.tt-footer>.tt-buttons>*{border-radius:.5em!important;flex:1!important;padding:.8em 0!important}.tt-help-container>.tt-popup>.tt-footer>.tt-buttons>.tt-discord-button{background-color:#5966f3!important;margin-right:.5em!important}.tt-help-container>.tt-popup>.tt-footer>.tt-buttons>.tt-discord-button:hover{background-color:#717cf4!important;cursor:pointer!important}.tt-help-container>.tt-popup>.tt-footer>.tt-buttons>.tt-forum-button{background-color:#3bb300!important}.tt-help-container>.tt-popup>.tt-footer>.tt-buttons>.tt-forum-button:hover{background-color:#4c0!important;cursor:pointer!important}
+}
+
+@-moz-document domain("tankionline.com") {
+.SkinsComponentStyle-styleColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    height: 70%;
+    width: 11.75em;
+    margin-right: 1em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-align: stretch;
+    -webkit-box-pack: start;
+}.SkinCellStyle-widthHeight {
+    width: 11.75em;
+    max-width: 31.75em;
+    min-width: 0em;
+    height: calc(50% - 1em);
+    max-height: calc(43% - 1em);
+    min-height: calc(43% - 1em);
+}.MainQuestComponentStyle-cardPlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5em;
+    height: calc(50% - 2.3em);
+    margin-right: 1em;
+    margin-bottom: 1em;
+    min-width: 21em;
+    padding: 0.75em;
+    position: relative;
+    width: 21em;
+    background-color: rgb(0 0 0 / 15%);
+    box-shadow: rgba(191, 213, 255, 0.25) 0px 0px 0px 0.063em;
+    cursor: pointer;
+    text-align: center;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+}.MainScreenComponentStyle-gradientBlock {
+    background: linear-gradient(90deg, #000 0%, rgba(0, 0, 0, 0) 100%); 
+    width: 30%;
+    height: 100%;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    z-index: 1;
+    pointer-events: none;
+}.MainScreenComponentStyle-gradientBlockRight {
+    background: linear-gradient(90deg, #000 0%, rgba(255, 0, 0, 0) 100%); 
+    width: 30%;
+    height: 100%;
+    opacity: 1;
+    position: absolute;
+    transform: rotate(-180deg);
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: 1;
+    pointer-events: none;
+}.BattleFinishStyle-container {
+    position: absolute;
+    background: rgb(31 30 30 / 26%);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+}.Common-flexStartAlignStartColumn {
+  right: 0rem;
+}.CssCommonAnimations-appearFromLeft {
+    animation: 500ms linear(0 0%, 0 2.27%, 0.02 4.53%, 0.04 6.8%, 0.06 9.07%, 0.1 11.33%, 0.14 13.6%, 0.25 18.15%, 0.39 22.7%, 0.56 27.25%, 0.77 31.8%, 1 36.35%, 0.89 40.9%, 0.85 43.18%, 0.81 45.45%, 0.79 47.72%, 0.77 50%, 0.75 52.27%, 0.75 54.55%, 0.75 56.82%, 0.77 59.1%, 0.79 61.38%, 0.81 63.65%, 0.85 65.93%, 0.89 68.2%, 1 72.7%, 0.97 74.98%, 0.95 77.25%, 0.94 79.53%, 0.94 81.8%, 0.94 84.08%, 0.95 86.35%, 0.97 88.63%, 1 90.9%, 0.99 93.18%, 0.98 95.45%, 0.99 97.73%, 1 100%) 0s 1 normal none running bounce;
+}
+@keyframes bounce {
+0% {
+    opacity: 0;
+    transform: translateX(-5vw);
+    }
+}.SmallShowcaseItemComponentStyle-container {
+    background: transparent;
+    transition: transform 0.15s linear;
+}
+}
