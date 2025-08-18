@@ -8,7 +8,7 @@
 @author       doomersson
 @license      MIT
 ==/UserStyle== */
-@-moz-document domain("tankionline.com"), domain("https://public-deploy1.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy2.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy3.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy4.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy5.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy6.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy7.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy8.test-eu.tankionline.com/browser-public/index.html"), domain("https://public-deploy9.test-eu.tankionline.com/browser-public/index.html") {
+@-moz-document domain("tankionline.com"){
 .Common-container {
     width: 100vw;
     height: 100vh;
@@ -33,16 +33,13 @@
     }
 }
 .GearScoreStyle-bestGS {
-    background-image: linear-gradient(to left, rgb(40, 255, 203) 0%, rgb(255, 235, 51) 100%));
+    background-image: linear-gradient((to left, rgb(40, 255, 203) 0%, rgb(255, 235, 51) 100%));
     text-transform: uppercase;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: rgb(255, 235, 51);
     z-index: 3;
-    font-family: RubikRegular;
-    font-style: normal;
-    font-weight: normal;
     animation: shine-loop 3s ease-in-out infinite;
     background-size: 200% 100%;
 }
@@ -418,11 +415,6 @@
     -webkit-box-pack: center;
     transition: all 0.2s ease-in-out 0s;
 }.MainScreenComponentStyle-playButtonContainer span {
-    font-family: RubikMedium;
-    font-style: normal;
-    font-weight: 300;
-    text-transform: uppercase;
-    font-size: 1.em;
     color: rgba(255, 255, 255, .62);
     opacity: 0.8;
 }.MainScreenComponentStyle-playButtonContainer:hover {
@@ -580,9 +572,6 @@
     cursor: pointer;
     height: auto;
     position: relative;
-    font-family: RubikBold;
-    font-style: normal;
-    font-weight: 500;
     font-size: 1em;
     line-height: normal;
     text-transform: uppercase;
@@ -681,9 +670,6 @@
     background: rgb(255 255 255 / 16%);
     cursor: default;
 }.BattleKillBoardComponentStyle-tableContainer table thead tr th h2 {
-    font-family: RubikMedium;
-    font-style: normal;
-    font-weight: 500;
     text-transform: uppercase;
     font-size: 0.875em;
     color: rgb(255, 255, 255);  text-shadow:
