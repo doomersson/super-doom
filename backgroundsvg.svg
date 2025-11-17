@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+	<defs>
+		<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,120,-120,0,120,120)">
+			<stop offset="0" stop-color="#1a1a1a" stop-opacity=".25"/>
+			<stop offset="1" stop-color="#1a1a1a" stop-opacity=".6"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { opacity: .57;fill: url(#g1) } 
+		.s1 { opacity: .4;fill: #ffffff } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m120 240c-66.36 0-120-53.64-120-120 0-66.36 53.64-120 120-120 66.36 0 120 53.64 120 120 0 66.36-53.64 120-120 120z"/>
+	<path fill-rule="evenodd" class="s1" d="m40 120c0-44.18 35.82-80 80-80 44.18 0 80 35.82 80 80 0 44.18-35.82 80-80 80-44.18 0-80-35.82-80-80zm80 78c43.08 0 78-34.92 78-78 0-43.08-34.92-78-78-78-43.08 0-78 34.92-78 78 0 43.08 34.92 78 78 78z"/>
+	<path fill-rule="evenodd" class="s1" d="m80 120c0-22.09 17.91-40 40-40 22.09 0 40 17.91 40 40 0 22.09-17.91 40-40 40-22.09 0-40-17.91-40-40zm40 38c20.99 0 38-17.01 38-38 0-20.99-17.01-38-38-38-20.99 0-38 17.01-38 38 0 20.99 17.01 38 38 38z"/>
+	<path class="s2" d="m119.56 110l8 20-8-2.42-8 2.42z"/>
+</svg>
