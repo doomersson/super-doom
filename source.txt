@@ -1,4 +1,5 @@
-51677: (t, n, i) => {
+
+        51677: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/open_sans_armenian.f4961ef6.png"
         }
@@ -1983,11 +1984,6 @@
             t.exports = i.p + "static/images/maghetronRicochet.13b5e353.svg"
         }
         ,
-        54728: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/magnum_carronade.2174f9ae.svg"
-        }
-        ,
         4959: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/magnum_lafet.ffcd092b.svg"
@@ -2111,11 +2107,6 @@
         73060: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/radio_explosion.e80117ad.svg"
-        }
-        ,
-        78910: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/railgun_detonator.ab8cc577.svg"
         }
         ,
         69985: (t, n, i) => {
@@ -5975,47 +5966,47 @@
         ,
         46431: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/de.80d3d3b9.json"
+            t.exports = i.p + "static/translations/de.1c3f9f86.json"
         }
         ,
         85858: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/en-US.f871de18.json"
+            t.exports = i.p + "static/translations/en-US.909b5410.json"
         }
         ,
         98959: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/es-ES.6ce624d8.json"
+            t.exports = i.p + "static/translations/es-ES.bb38ea9f.json"
         }
         ,
         36756: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/fr.be07e134.json"
+            t.exports = i.p + "static/translations/fr.17a2a386.json"
         }
         ,
         24621: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/ja.9a215965.json"
+            t.exports = i.p + "static/translations/ja.6f4de4d8.json"
         }
         ,
         72048: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/pl.1b46dab6.json"
+            t.exports = i.p + "static/translations/pl.27795baa.json"
         }
         ,
         39639: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/pt-BR.d5efaf2f.json"
+            t.exports = i.p + "static/translations/pt-BR.3961b041.json"
         }
         ,
         19809: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/ru.1606d6d1.json"
+            t.exports = i.p + "static/translations/ru.f814e91c.json"
         }
         ,
         19144: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/zh-CN.8b89faa3.json"
+            t.exports = i.p + "static/translations/zh-CN.e15ce78b.json"
         }
         ,
         25630: (t, n, i) => {
