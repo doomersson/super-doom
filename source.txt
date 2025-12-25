@@ -1,5 +1,4 @@
-
-        51677: (t, n, i) => {
+51677: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/open_sans_armenian.f4961ef6.png"
         }
@@ -69,11 +68,6 @@
             t.exports = i.p + "static/textdata/open_sans_latin.87a74077.txt"
         }
         ,
-        16703: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/translations/cards.a084950e.json"
-        }
-        ,
         43511: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/textdata/action_log_data.9e51d545.txt"
@@ -84,404 +78,1124 @@
             t.exports = i.p + "static/images/action_log_icons.b4df02c6.webp"
         }
         ,
-        36312: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/drawFlashLight.253cdfb5.webp"
-        }
-        ,
-        31334: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/resultBg.6245ace3.svg"
-        }
-        ,
-        29146: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/title_bg_defeat.8ae31a66.webp"
-        }
-        ,
-        69131: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/title_bg_draw.212c0f46.webp"
-        }
-        ,
-        59341: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/title_bg_win.4149158a.webp"
-        }
-        ,
-        71876: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/winFlashLight.812612f2.webp"
-        }
-        ,
-        76662: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/animation_snow.6b448959.webp"
-        }
-        ,
-        40151: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/disableIconProgressBarTier.ff61c26f.svg"
-        }
-        ,
-        68442: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconChecker.90480a5c.svg"
-        }
-        ,
-        9877: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconCheckerPremium.b80ebe58.svg"
-        }
-        ,
-        46708: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLock.49920358.svg"
-        }
-        ,
-        21759: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconProgressBarTier.1f7fca3a.svg"
-        }
-        ,
-        43689: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconTier.b02299a8.svg"
-        }
-        ,
-        87879: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/passEvent.1a861057.svg"
-        }
-        ,
-        35207: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/passFree.cb9d3072.svg"
-        }
-        ,
-        87623: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/passGold.1d59c50d.svg"
-        }
-        ,
-        73495: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battleChatToggleTeamAll.46740b6a.svg"
-        }
-        ,
-        76702: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battleChatToggleTeamAllies.ea454e1e.svg"
-        }
-        ,
-        45006: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battleChatToggleTeamEnemies.eaa91318.svg"
-        }
-        ,
-        7156: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battleChatToggleTeamSpectators.2cb18c57.svg"
-        }
-        ,
-        90135: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/chatAlert.fac11a72.svg"
-        }
-        ,
         5067: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/chatDirectArrow.d2462f04.svg"
         }
         ,
-        52296: (t, n, i) => {
+        17908: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/sendMessage.395c6c96.svg"
+            t.exports = i.p + "static/images/blue_flag.3abc6059.png"
         }
         ,
-        29841: (t, n, i) => {
+        13676: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/sendMessagePrivate.7eeb7cc8.svg"
+            t.exports = i.p + "static/images/clock.1e1fe192.svg"
         }
         ,
-        27569: (t, n, i) => {
+        47396: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/Completed.3dfc5dc9.svg"
+            t.exports = i.p + "static/images/cp_count.88d28925.png"
         }
         ,
-        73315: (t, n, i) => {
+        95604: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/Discount.663912b4.svg"
+            t.exports = i.p + "static/images/da.505f127a.png"
         }
         ,
-        45226: (t, n, i) => {
+        68569: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/age_warn.6479e9e3.webp"
+            t.exports = i.p + "static/images/dd.91e43f8e.png"
         }
         ,
-        3596: (t, n, i) => {
+        30167: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/alert.d58f4b55.svg"
+            t.exports = i.p + "static/images/health.c14ae374.png"
         }
         ,
-        75416: (t, n, i) => {
+        63284: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/arrowLeftMenuIcon.a0890701.svg"
+            t.exports = i.p + "static/images/mine.5620ed14.png"
         }
         ,
-        43310: (t, n, i) => {
+        68513: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/arrowLeftMenuIconActive.efdfc24b.svg"
+            t.exports = i.p + "static/images/nitro.bded466a.png"
         }
         ,
-        27779: (t, n, i) => {
+        16147: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/arrowRightMenuIcon.fa17b034.svg"
+            t.exports = i.p + "static/images/red_flag.902470b8.png"
         }
         ,
-        6153: (t, n, i) => {
+        16173: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/arrowRightMenuIconActive.f061716d.svg"
+            t.exports = i.p + "static/images/scull.c7d3d323.svg"
         }
         ,
-        62935: (t, n, i) => {
+        1904: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/backgroundIconLocked.5094fbcb.svg"
+            t.exports = i.p + "static/images/Container.33f5be2c.svg"
         }
         ,
-        1461: (t, n, i) => {
+        90875: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/claimAllButton.b9e9611f.webp"
+            t.exports = i.p + "static/images/title.89305e21.svg"
         }
         ,
-        9574: (t, n, i) => {
+        60432: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/close.fabb8b86.svg"
+            t.exports = i.p + "static/images/Button.2c84807e.svg"
         }
         ,
-        67116: (t, n, i) => {
+        5604: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/correct.afad1b22.svg"
+            t.exports = i.p + "static/images/Button_small.cbed2686.svg"
         }
         ,
-        16849: (t, n, i) => {
+        16856: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/empty.c3b3f789.svg"
+            t.exports = i.p + "static/images/cont_closed.d6fa010d.png"
         }
         ,
-        35036: (t, n, i) => {
+        30668: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/errorInput.2b12caec.svg"
+            t.exports = i.p + "static/images/cont_open.0fd166f3.png"
         }
         ,
-        4011: (t, n, i) => {
+        58879: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/externalLink.e7a8bb5a.svg"
+            t.exports = i.p + "static/images/pr1.30a2f563.png"
         }
         ,
-        19923: (t, n, i) => {
+        4228: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/iconActiveSearch.65a41b97.svg"
+            t.exports = i.p + "static/images/pr2.363d1a32.png"
         }
         ,
-        96124: (t, n, i) => {
+        44173: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/iconPremium.9f26d9b9.svg"
+            t.exports = i.p + "static/images/pr3.94601cfd.png"
         }
         ,
-        87512: (t, n, i) => {
+        71666: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/iconTankOnline.e3b07fd0.svg"
+            t.exports = i.p + "static/images/pr4.57d50efd.png"
         }
         ,
-        49517: (t, n, i) => {
+        69531: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/imgModal.7d37b918.png"
+            t.exports = i.p + "static/images/pr5.34bf875e.png"
         }
         ,
-        88973: (t, n, i) => {
+        36300: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/inBattleColorIcon.757c5a50.svg"
+            t.exports = i.p + "static/images/pr1.30a2f563.png"
         }
         ,
-        13357: (t, n, i) => {
+        56359: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/incorrectCheck.1918884a.svg"
+            t.exports = i.p + "static/images/pr2.363d1a32.png"
         }
         ,
-        83206: (t, n, i) => {
+        54398: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/leadColorIcon.437e6e3c.svg"
+            t.exports = i.p + "static/images/pr3.94601cfd.png"
         }
         ,
-        69152: (t, n, i) => {
+        79057: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/legendPlusBg.295a98bb.gif"
+            t.exports = i.p + "static/images/pr4.57d50efd.png"
         }
         ,
-        80627: (t, n, i) => {
+        81192: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/lock.64c01119.svg"
+            t.exports = i.p + "static/images/pr5.34bf875e.png"
         }
         ,
-        93769: (t, n, i) => {
+        87565: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/lockButtonPlay.4bb62c08.svg"
+            t.exports = i.p + "static/images/GarageItemActive.ecc626b8.svg"
         }
         ,
-        48305: (t, n, i) => {
+        76688: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/lockField.72605e97.svg"
+            t.exports = i.p + "static/images/hulls.172470a9.png"
         }
         ,
-        71958: (t, n, i) => {
+        47509: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/lockFieldBlack.976f91f0.svg"
+            t.exports = i.p + "static/images/paints.65777183.png"
         }
         ,
-        36141: (t, n, i) => {
+        2021: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/logoTankiOnline.2a9c236f.svg"
+            t.exports = i.p + "static/images/resists.520cbd6f.png"
         }
         ,
-        3642: (t, n, i) => {
+        48577: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/logoTankiOnlineChina.0b6ba850.svg"
+            t.exports = i.p + "static/images/special.721e269e.png"
         }
         ,
-        42800: (t, n, i) => {
+        14028: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/logoTankiOnlineChinaMobile.a068d71a.svg"
+            t.exports = i.p + "static/images/supplies_2.4f8bc4d5.png"
         }
         ,
-        63333: (t, n, i) => {
+        74049: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/missionLock.a8eda9e8.svg"
+            t.exports = i.p + "static/images/turrets.5f37012f.png"
         }
         ,
-        63436: (t, n, i) => {
+        83140: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/notification_correct.8382464c.svg"
+            t.exports = i.p + "static/images/accept.8be2e839.svg"
         }
         ,
-        41519: (t, n, i) => {
+        79205: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/offlineColorIcon.bd1052d4.svg"
+            t.exports = i.p + "static/images/crystall.9f0c8dd1.png"
         }
         ,
-        12196: (t, n, i) => {
+        68952: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/questLockTimer.41d0518e.svg"
+            t.exports = i.p + "static/images/icon.dd2f4aec.png"
         }
         ,
-        9675: (t, n, i) => {
+        15672: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/readyColorIcon.9a379d6c.svg"
+            t.exports = i.p + "static/images/triangle.d0f29b93.svg"
         }
         ,
-        71370: (t, n, i) => {
+        92956: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/search.8c2b7c7b.svg"
+            t.exports = i.p + "static/images/warn.da49a0c2.png"
         }
         ,
-        59390: (t, n, i) => {
+        31599: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/shop.d96ea60f.svg"
+            t.exports = i.p + "static/images/bg.26c673f9.png"
         }
         ,
-        3933: (t, n, i) => {
+        5963: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/shopIcon.c02c69df.svg"
+            t.exports = i.p + "static/images/baseBP.884c3a11.png"
         }
         ,
-        80192: (t, n, i) => {
+        33065: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/system-error.42060a04.svg"
+            t.exports = i.p + "static/images/good.3df23af6.png"
         }
         ,
-        40661: (t, n, i) => {
+        65371: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/yellowCircles.66ef42c2.svg"
+            t.exports = i.p + "static/images/lock.fd922920.png"
         }
         ,
-        85565: (t, n, i) => {
+        10989: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/epic_container.b0b1a8a3.png"
+            t.exports = i.p + "static/images/premiumBP.0a7b2e67.png"
         }
         ,
-        40627: (t, n, i) => {
+        81071: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/legendary_container.77b89e67.png"
+            t.exports = i.p + "static/images/dayli_missions.5f1eef7b.png"
         }
         ,
-        10642: (t, n, i) => {
+        84240: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/rare_container.64858635.png"
+            t.exports = i.p + "static/images/progress.a716bda3.svg"
         }
         ,
-        39053: (t, n, i) => {
+        7612: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/standard_container.44c6d5f0.png"
+            t.exports = i.p + "static/images/01.411380ec.webp"
         }
         ,
-        65713: (t, n, i) => {
+        50649: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/epic_key_active.b7887b8b.png"
+            t.exports = i.p + "static/images/02.8a32b254.webp"
         }
         ,
-        50236: (t, n, i) => {
+        9214: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/epic_key_inactive.6febf3a5.png"
+            t.exports = i.p + "static/images/03.68629515.webp"
         }
         ,
-        62397: (t, n, i) => {
+        2275: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/legendary_key_active.287d4376.png"
+            t.exports = i.p + "static/images/04.bcd978c6.webp"
         }
         ,
-        73152: (t, n, i) => {
+        55520: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/legendary_key_inactive.92897be0.png"
+            t.exports = i.p + "static/images/05.44ef9aeb.webp"
         }
         ,
-        56364: (t, n, i) => {
+        50189: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/rare_key_active.a94e1131.png"
+            t.exports = i.p + "static/images/06.1e701361.webp"
         }
         ,
-        61597: (t, n, i) => {
+        94626: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/rare_key_inactive.c38e21a3.png"
+            t.exports = i.p + "static/images/07.0ce337f3.webp"
         }
         ,
-        13641: (t, n, i) => {
+        27527: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/standard_key_active.94214105.png"
+            t.exports = i.p + "static/images/08.0d385029.webp"
         }
         ,
-        45876: (t, n, i) => {
+        57476: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/standard_key_inactive.41a06528.png"
+            t.exports = i.p + "static/images/09.8e67e5f1.webp"
         }
         ,
-        98007: (t, n, i) => {
+        37674: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/sparks.990b5664.webp"
+            t.exports = i.p + "static/images/10.ad9bba32.webp"
         }
         ,
-        56779: (t, n, i) => {
+        5205: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/max.2f636a21.svg"
+            t.exports = i.p + "static/images/11.0c2fa919.webp"
         }
         ,
-        46117: (t, n, i) => {
+        65800: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/minus.00e897c4.svg"
+            t.exports = i.p + "static/images/12.3ba82590.webp"
         }
         ,
-        53351: (t, n, i) => {
+        73739: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/images/plus.8747c517.svg"
+            t.exports = i.p + "static/images/13.b15b05d7.webp"
+        }
+        ,
+        44614: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/14.d7ec1833.webp"
+        }
+        ,
+        14369: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/15.ad171090.webp"
+        }
+        ,
+        89124: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/16.419cbef3.webp"
+        }
+        ,
+        3303: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/17.5dac22e8.webp"
+        }
+        ,
+        52674: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/18.43e00979.webp"
+        }
+        ,
+        8237: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/19.f3ac151e.webp"
+        }
+        ,
+        43185: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/20.4bf37038.webp"
+        }
+        ,
+        24310: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/21.4bf2d173.webp"
+        }
+        ,
+        49783: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/22.90ffe7c5.webp"
+        }
+        ,
+        65076: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/23.648ff039.webp"
+        }
+        ,
+        25285: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/24.4d3437c3.webp"
+        }
+        ,
+        11258: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/25.4813f1ed.webp"
+        }
+        ,
+        71707: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/26.21f44029.webp"
+        }
+        ,
+        70008: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/27.04fc3d1d.webp"
+        }
+        ,
+        1321: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/28.5137b454.webp"
+        }
+        ,
+        15246: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/29.f6ceaf58.webp"
+        }
+        ,
+        11556: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/30.84715fb1.webp"
+        }
+        ,
+        74151: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/31.d51d5dda.webp"
+        }
+        ,
+        64438: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/01.04f47a40.webp"
+        }
+        ,
+        25111: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/02.c4b878ff.webp"
+        }
+        ,
+        14100: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/03.7f3d9537.webp"
+        }
+        ,
+        58085: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/04.648492e3.webp"
+        }
+        ,
+        93914: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/05.a53c0b2c.webp"
+        }
+        ,
+        16283: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/06.21237f72.webp"
+        }
+        ,
+        77912: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/07.d9fa9297.webp"
+        }
+        ,
+        53353: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/08.6b8e7cb9.webp"
+        }
+        ,
+        57326: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/09.e492e23d.webp"
+        }
+        ,
+        29956: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/10.4c005a62.webp"
+        }
+        ,
+        83655: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/11.48cf45b2.webp"
+        }
+        ,
+        35750: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/12.97a6ef91.webp"
+        }
+        ,
+        50593: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/13.70c2593d.webp"
+        }
+        ,
+        53608: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/14.5ad26a9c.webp"
+        }
+        ,
+        93515: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/15.8f401301.webp"
+        }
+        ,
+        84170: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/16.7fc9c968.webp"
+        }
+        ,
+        46037: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/17.8d29ab99.webp"
+        }
+        ,
+        63740: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/18.bd06b63c.webp"
+        }
+        ,
+        70335: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/19.d48521f1.webp"
+        }
+        ,
+        73183: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/20.274607ac.webp"
+        }
+        ,
+        45244: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/21.13009227.webp"
+        }
+        ,
+        45753: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/22.43a62365.webp"
+        }
+        ,
+        61246: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/23.7854cc30.webp"
+        }
+        ,
+        77603: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/24.25abb860.webp"
+        }
+        ,
+        23904: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/25.61687529.webp"
+        }
+        ,
+        2221: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/26.80a9f7a0.webp"
+        }
+        ,
+        77282: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/27.de5b386a.webp"
+        }
+        ,
+        19079: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/28.e8596d5f.webp"
+        }
+        ,
+        56484: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/29.4c688e15.webp"
+        }
+        ,
+        32778: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/30.34b1e438.webp"
+        }
+        ,
+        49781: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/31.c66215dc.webp"
+        }
+        ,
+        37560: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/01.72dce0cf.webp"
+        }
+        ,
+        92837: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/02.6e85b8dd.webp"
+        }
+        ,
+        78810: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/03.408396a9.webp"
+        }
+        ,
+        17335: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/04.572d959c.webp"
+        }
+        ,
+        32628: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/05.7bfc07e4.webp"
+        }
+        ,
+        10737: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/06.bacc079a.webp"
+        }
+        ,
+        75510: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/07.7fd95e71.webp"
+        }
+        ,
+        32531: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/08.345b7e75.webp"
+        }
+        ,
+        38448: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/09.f80720a7.webp"
+        }
+        ,
+        34918: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/10.1b7ee5ae.webp"
+        }
+        ,
+        26593: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/11.b1afa248.webp"
+        }
+        ,
+        79108: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/12.c7136475.webp"
+        }
+        ,
+        41703: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/13.674edbb8.webp"
+        }
+        ,
+        60170: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/14.49f62a62.webp"
+        }
+        ,
+        64437: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/15.0473de58.webp"
+        }
+        ,
+        64680: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/16.f2af72f0.webp"
+        }
+        ,
+        62059: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/17.afe29f8d.webp"
+        }
+        ,
+        83870: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/18.e39ce89e.webp"
+        }
+        ,
+        68377: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/19.99429bf3.webp"
+        }
+        ,
+        5789: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/20.bfc1ea69.webp"
+        }
+        ,
+        54450: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/21.913f09c2.webp"
+        }
+        ,
+        88723: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/22.61b8b6a7.webp"
+        }
+        ,
+        62960: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/23.d05dab20.webp"
+        }
+        ,
+        14281: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/24.e757760b.webp"
+        }
+        ,
+        75182: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/25.b79283ea.webp"
+        }
+        ,
+        34479: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/26.254472e0.webp"
+        }
+        ,
+        93612: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/27.8d13cb34.webp"
+        }
+        ,
+        51525: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/28.8c7fa415.webp"
+        }
+        ,
+        80026: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/29.834b3a29.webp"
+        }
+        ,
+        47968: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/30.4664cbe5.webp"
+        }
+        ,
+        35459: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/31.5d93460a.webp"
+        }
+        ,
+        87322: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/01.1a11dbd1.webp"
+        }
+        ,
+        66843: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/02.56081c33.webp"
+        }
+        ,
+        24024: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/03.c79632ea.webp"
+        }
+        ,
+        79569: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/04.0c89d4d1.webp"
+        }
+        ,
+        14838: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/05.6ff510f3.webp"
+        }
+        ,
+        24087: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/06.de87df44.webp"
+        }
+        ,
+        82228: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/07.471cc537.webp"
+        }
+        ,
+        48285: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/08.d35157ed.webp"
+        }
+        ,
+        45522: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/09.78061790.webp"
+        }
+        ,
+        21736: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/10.43dedfaa.webp"
+        }
+        ,
+        29675: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/11.e97c1950.webp"
+        }
+        ,
+        77258: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/12.4bafb3c3.webp"
+        }
+        ,
+        44789: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/13.eff1d9d4.webp"
+        }
+        ,
+        28708: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/14.768739a7.webp"
+        }
+        ,
+        42887: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/15.1b0a64ef.webp"
+        }
+        ,
+        550: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/16.d0472853.webp"
+        }
+        ,
+        70305: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/17.932077ac.webp"
+        }
+        ,
+        90464: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/18.755b2cb4.webp"
+        }
+        ,
+        73507: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/19.50cc25b7.webp"
+        }
+        ,
+        61955: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/20.cbb7828b.webp"
+        }
+        ,
+        74464: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/21.24c8c05b.webp"
+        }
+        ,
+        17549: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/22.e983ed8c.webp"
+        }
+        ,
+        54530: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/23.13c0ded2.webp"
+        }
+        ,
+        39871: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/24.406a10ad.webp"
+        }
+        ,
+        38332: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/25.8e7f562b.webp"
+        }
+        ,
+        87257: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/26.2bb85b4c.webp"
+        }
+        ,
+        26366: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/27.4afcb762.webp"
+        }
+        ,
+        32523: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/28.ffe2726b.webp"
+        }
+        ,
+        98280: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/29.482871cd.webp"
+        }
+        ,
+        40782: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/30.8915559a.webp"
+        }
+        ,
+        36809: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/31.364b8262.webp"
+        }
+        ,
+        15188: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/Select.5a7e31ad.svg"
+        }
+        ,
+        8728: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/triangle.420dfff1.svg"
+        }
+        ,
+        54635: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/purk.55a6bfad.png"
+        }
+        ,
+        78792: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/shopHeaderCrystal.574787c7.png"
+        }
+        ,
+        30561: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/dark_grey_texture.fb4ac354.jpg"
+        }
+        ,
+        55746: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/grey_texture.bc428d8e.jpg"
+        }
+        ,
+        83565: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/00.f3e54073.webp"
+        }
+        ,
+        11650: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/01.f8223034.webp"
+        }
+        ,
+        92899: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/02.93a84708.webp"
+        }
+        ,
+        9856: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/03.64c547b1.webp"
+        }
+        ,
+        10873: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/04.497d82ff.webp"
+        }
+        ,
+        99838: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/05.084cf3db.webp"
+        }
+        ,
+        9439: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/06.f64dae24.webp"
+        }
+        ,
+        31196: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/07.6af8a714.webp"
+        }
+        ,
+        64181: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/08.a4e1ab22.webp"
+        }
+        ,
+        96650: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/09.a7f89bc0.webp"
+        }
+        ,
+        29872: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/10.5586e6a0.webp"
+        }
+        ,
+        40307: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/11.0e78e429.webp"
+        }
+        ,
+        38525: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/13.9ce640cd.webp"
+        }
+        ,
+        92332: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/14.eb42747e.webp"
+        }
+        ,
+        43919: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/15.04cd9271.webp"
+        }
+        ,
+        90574: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/16.9d34df33.webp"
+        }
+        ,
+        60297: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/17.133c8e05.webp"
+        }
+        ,
+        45336: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/18.31ac71de.webp"
+        }
+        ,
+        30683: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/19.36893de1.webp"
+        }
+        ,
+        22120: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/21.cd30cbd9.webp"
+        }
+        ,
+        14549: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/22.c6cab471.webp"
+        }
+        ,
+        52682: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/23.b7a83b42.webp"
+        }
+        ,
+        52167: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/24.2ca50937.webp"
+        }
+        ,
+        98468: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/25.be780f00.webp"
+        }
+        ,
+        34230: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/30.c02723c3.webp"
+        }
+        ,
+        98961: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/31.432d8a5a.webp"
+        }
+        ,
+        1620: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/32.a068627d.webp"
+        }
+        ,
+        43479: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/33.52adce0c.webp"
+        }
+        ,
+        6714: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/34.63910f00.webp"
+        }
+        ,
+        71246: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/38.cd8a5d5b.webp"
+        }
+        ,
+        94865: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/40.c1aeabc3.webp"
+        }
+        ,
+        35291: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/center.f4d5d8e7.png"
+        }
+        ,
+        95354: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/left_border.0fc9a447.png"
+        }
+        ,
+        47156: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/lower_holder.a1466aac.png"
+        }
+        ,
+        62029: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/missle.176a650a.png"
+        }
+        ,
+        87571: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/right_border.39fc2c10.png"
+        }
+        ,
+        18795: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/right_holder.ccc26a97.png"
+        }
+        ,
+        3333: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/upper_holder.cd000522.png"
+        }
+        ,
+        72080: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/close.e89e18de.png"
+        }
+        ,
+        24929: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/fullscreen_icon.4609c208.png"
+        }
+        ,
+        1463: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/iconConfig.d49d57b9.png"
+        }
+        ,
+        93281: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/iconSound0001.7a14f0f9.png"
+        }
+        ,
+        44298: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/iconSound0002.8680529b.png"
+        }
+        ,
+        35035: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/icon_friends.0c94ecc0.png"
+        }
+        ,
+        88722: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/icon_shop.f1970398.png"
+        }
+        ,
+        3718: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/mainPanel_ICON_BATTLE.f3f17079.png"
+        }
+        ,
+        9167: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/mainPanel_ICON_GARAGE.bb2a28cc.png"
+        }
+        ,
+        97801: (t, n, i) => {
+            "use strict";
+            t.exports = i.p + "static/images/starIcon.ab1eba08.png"
         }
         ,
         59403: (t, n, i) => {
@@ -529,7 +1243,7 @@
             t.exports = i.p + "static/images/machinegun_empty_shell.ebfc4365.webp"
         }
         ,
-        30968: (t, n, i) => {
+        8587: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/magnum_target_arrow.b1497729.png"
         }
@@ -554,164 +1268,9 @@
             t.exports = i.p + "static/images/terminator_target_mark.1999a5f7.webp"
         }
         ,
-        52159: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/apple.a99f4176.svg"
-        }
-        ,
-        80824: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/authorization.fbedcc5e.svg"
-        }
-        ,
-        8351: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/background.fc2779c1.webp"
-        }
-        ,
-        29653: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/create_account.771c2cde.svg"
-        }
-        ,
-        95625: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/facebook.e18977c3.svg"
-        }
-        ,
-        78477: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/facebook_black.9dba7466.svg"
-        }
-        ,
-        6784: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/google.9550d60e.svg"
-        }
-        ,
-        46236: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/google_black.e085920a.svg"
-        }
-        ,
-        34164: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/tanki_online_color.496a1d41.svg"
-        }
-        ,
-        40974: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/tanki_online_white.b4613c5f.svg"
-        }
-        ,
-        89296: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/vk.2fac5b5e.svg"
-        }
-        ,
-        68812: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/vk_black.b1f35db9.svg"
-        }
-        ,
-        98306: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/discount.23f146b6.svg"
-        }
-        ,
-        94861: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconBuyContainer.660eb54c.svg"
-        }
-        ,
-        38445: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/buyButtonIcon.ca48e861.svg"
-        }
-        ,
         31031: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/defaultDevice.47b22a7c.svg"
-        }
-        ,
-        50573: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/disableIcon.30105093.svg"
-        }
-        ,
-        53203: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/hoverMenuCarouselOneRow.20793df2.svg"
-        }
-        ,
-        56480: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/hoverMenuCarouselTwoRows.fbd70137.svg"
-        }
-        ,
-        36044: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_mount.4175dc0c.svg"
-        }
-        ,
-        71773: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_mountBlack.101d5e3f.svg"
-        }
-        ,
-        28321: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_no_device.74e94e6a.svg"
-        }
-        ,
-        48608: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_no_device_hulls.6cac3bc2.svg"
-        }
-        ,
-        11112: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_speedup_upgrade.efffd9f9.svg"
-        }
-        ,
-        6830: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_standard.9d75638b.svg"
-        }
-        ,
-        96325: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_standard_shot.23e8b59d.svg"
-        }
-        ,
-        6715: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_unmount.01e4da15.svg"
-        }
-        ,
-        48099: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconGS.3d7321c9.svg"
-        }
-        ,
-        23584: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconGSSmall.0c0aa8fa.svg"
-        }
-        ,
-        22380: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/allPaints.741c65e1.svg"
-        }
-        ,
-        28421: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/arrow.2552fe80.svg"
-        }
-        ,
-        51251: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/categoryRarities.04cb4010.svg"
         }
         ,
         70930: (t, n, i) => {
@@ -719,119 +1278,9 @@
             t.exports = i.p + "static/images/favoriteStar.1ce58570.svg"
         }
         ,
-        59255: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconCasualGray.3eea12e7.svg"
-        }
-        ,
-        54982: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconCustomiseRed.2b5c8828.svg"
-        }
-        ,
-        3611: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconEpicFiolet.d91b1151.svg"
-        }
-        ,
-        84838: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLegendaryGold.7c76cb29.svg"
-        }
-        ,
-        55473: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconRareBlue.4e3c7303.svg"
-        }
-        ,
-        1311: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/lock.301e2c47.svg"
-        }
-        ,
-        964: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/unavailable.5c3ecd75.svg"
-        }
-        ,
-        54880: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/uncommon.ca77d7da.svg"
-        }
-        ,
         51287: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/unfavoriteStar.0e39d67a.svg"
-        }
-        ,
-        50536: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/buttonCloseScreenShot.95b953dd.svg"
-        }
-        ,
-        17525: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/deleteHover.a7fa7943.svg"
-        }
-        ,
-        12215: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/hoverTransitionToWindowScreenShotTanks.6977c625.svg"
-        }
-        ,
-        35784: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/recordVideo.52d1ea6b.svg"
-        }
-        ,
-        40326: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/recordVideoHover.263bb8f5.svg"
-        }
-        ,
-        53665: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/takeScreen.5d70292b.svg"
-        }
-        ,
-        72593: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/takeScreenHover.445baef8.svg"
-        }
-        ,
-        3953: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/transitionToWindowScreenShotTanks.f3eeaa44.svg"
-        }
-        ,
-        49451: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/max_level.e31e0825.svg"
-        }
-        ,
-        80053: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/menuCarouselOneRow.c53f1971.svg"
-        }
-        ,
-        94026: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/menuCarouselTwoRows.281629ed.svg"
-        }
-        ,
-        91732: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/no_device.422b8dda.svg"
-        }
-        ,
-        76980: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/no_drone.340bbdc2.svg"
-        }
-        ,
-        27800: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/no_grenade.da2045e1.svg"
         }
         ,
         94279: (t, n, i) => {
@@ -894,169 +1343,9 @@
             t.exports = i.p + "static/images/Wasp.63098bb6.svg"
         }
         ,
-        77635: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/hoverProtectionBlockedSlot.1175753c.svg"
-        }
-        ,
-        9260: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/hoverProtectionEmptySlot.a0889570.svg"
-        }
-        ,
-        24155: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/hoverProtectionEquipSlot.53a400d5.svg"
-        }
-        ,
-        38549: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/protectionSlotBlocked.50260988.svg"
-        }
-        ,
-        17206: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/protectionSlotEmpty.f0a3082e.svg"
-        }
-        ,
-        6693: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/protectionSlotEquip.5f03fffe.svg"
-        }
-        ,
-        28407: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/selectedEquipSlot.6403c13c.svg"
-        }
-        ,
-        49691: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/epic_icon.e90a6782.svg"
-        }
-        ,
-        65695: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/legendary_icon.4e33cd2f.svg"
-        }
-        ,
-        16878: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rare_icon.b7506278.svg"
-        }
-        ,
-        47769: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/special_icon.48160275.svg"
-        }
-        ,
-        43064: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Critical.41589075.svg"
-        }
-        ,
-        81786: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Firebird.f17e7721.svg"
-        }
-        ,
-        7438: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Freeze.51cbde00.svg"
-        }
-        ,
-        906: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Gauss.da869a90.svg"
-        }
-        ,
-        65637: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Hammer.d7ddf1ba.svg"
-        }
-        ,
-        59441: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Isida.e0a284b9.svg"
-        }
-        ,
-        59668: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Magnum.54718a7f.svg"
-        }
-        ,
-        29858: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Mine.de6d4b99.svg"
-        }
-        ,
-        72083: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Railgun.e2aea740.svg"
-        }
-        ,
-        12628: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Ricochet.126321e9.svg"
-        }
-        ,
-        2328: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Scorpion.17f0ca64.svg"
-        }
-        ,
-        1254: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Smoky.a2623c59.svg"
-        }
-        ,
-        69765: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Striker.4d0c2fad.svg"
-        }
-        ,
-        40340: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Tesla.da7544a4.svg"
-        }
-        ,
-        38363: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Thunder.5e4fe37f.svg"
-        }
-        ,
-        57808: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Twins.0809b017.svg"
-        }
-        ,
-        41605: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/UltraResist.fc42ccb2.svg"
-        }
-        ,
-        51302: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Vulcan.eb748cd8.svg"
-        }
-        ,
-        12028: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/all_resistance.b45eae39.svg"
-        }
-        ,
-        72370: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/arrow.ee0f04fc.svg"
-        }
-        ,
         51497: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/artillery_resistance.9b4cbc34.svg"
-        }
-        ,
-        55237: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/crit_resistance.7fb68893.svg"
         }
         ,
         95182: (t, n, i) => {
@@ -1082,16 +1371,6 @@
         38749: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/isis_resistance.30a69ffc.svg"
-        }
-        ,
-        29686: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/mine_resistance.dd581c90.svg"
-        }
-        ,
-        89284: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/new_icon_shaft.4a28c47a.svg"
         }
         ,
         26209: (t, n, i) => {
@@ -1144,214 +1423,9 @@
             t.exports = i.p + "static/images/vulcan_resistance.824f6f0e.svg"
         }
         ,
-        44273: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/shopIcon.ca48e861.svg"
-        }
-        ,
-        31137: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/smallLockIcon.557cf8df.svg"
-        }
-        ,
-        66372: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/double_armor_hd.36ba9c0c.webp"
-        }
-        ,
-        80722: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/double_power_hd.d27b8d96.webp"
-        }
-        ,
-        35882: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/first_aid_hd.422192dc.webp"
-        }
-        ,
-        99498: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/globus_grenades.8b8e1bf1.webp"
-        }
-        ,
-        18315: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/gold_boxes_hd.ec007ec3.webp"
-        }
-        ,
-        23373: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/halloween.d8c23c16.webp"
-        }
-        ,
-        15719: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/mines_hd.1b6138fb.webp"
-        }
-        ,
-        90131: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/mortar_grenades.3781b591.webp"
-        }
-        ,
-        6979: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/nitro_hd.c9ef057e.webp"
-        }
-        ,
-        24466: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/nuclear_energy_hd.e0a35522.webp"
-        }
-        ,
-        44500: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/salyut.af78307a.webp"
-        }
-        ,
-        59633: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/secret_grenade.5c3ecd75.svg"
-        }
-        ,
-        10436: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/snowball.cbfaf651.webp"
-        }
-        ,
-        16355: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/standard_grenades.fdf8099c.webp"
-        }
-        ,
-        46504: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/arrayBack.f7da240e.svg"
-        }
-        ,
-        92170: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/arrayNext.a5a4df69.svg"
-        }
-        ,
-        81006: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/armorIcon.febb29d2.svg"
-        }
-        ,
-        16567: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/massIcon.02341b72.svg"
-        }
-        ,
-        410: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/speedIcon.3aaad0d9.svg"
-        }
-        ,
-        88648: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/tankSizeIcon.ee04e0e4.svg"
-        }
-        ,
-        37233: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/turnSpeedIcon.a63120e0.svg"
-        }
-        ,
-        42082: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/pentagramItem.f07033f9.svg"
-        }
-        ,
-        68449: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/damageIcon.007f43ed.svg"
-        }
-        ,
-        31390: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/diffcultyIcon.c270d811.svg"
-        }
-        ,
-        56771: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/dpsIcon.b243801d.svg"
-        }
-        ,
-        14487: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rangeIcon.46612944.svg"
-        }
-        ,
-        17359: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rateOfFireIcon.f5410e3e.svg"
-        }
-        ,
-        21495: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/imageGradeRise.46094f36.svg"
-        }
-        ,
-        71323: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/improvementArrow.e3eceac5.svg"
-        }
-        ,
         77929: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/bonk.37ae6633.svg"
-        }
-        ,
-        9267: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/cameraKeyboardControl.8f39d1f7.svg"
-        }
-        ,
-        74147: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/cameraMouseControl.0b0419ae.svg"
-        }
-        ,
-        63453: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/cameraRotation.e21667aa.svg"
-        }
-        ,
-        82460: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/movements.6a7f8a1e.svg"
-        }
-        ,
-        94516: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/overdrive.45ada463.svg"
-        }
-        ,
-        66668: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/selfDestruction.f1351fa9.svg"
-        }
-        ,
-        41866: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/shot.af15c23e.svg"
-        }
-        ,
-        45339: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/supplies.522ea46f.svg"
-        }
-        ,
-        36038: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/tabStatistics.42ef666d.svg"
-        }
-        ,
-        10876: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/throwGrenade.259dc99f.svg"
         }
         ,
         26422: (t, n, i) => {
@@ -2314,7 +2388,7 @@
             t.exports = i.p + "static/images/stun.ce9a0315.svg"
         }
         ,
-        62413: (t, n, i) => {
+        84794: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/stun_striker.ce9a0315.svg"
         }
@@ -2474,26 +2548,6 @@
             t.exports = i.p + "static/images/dot.69f2e150.svg"
         }
         ,
-        69103: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/icAutoPause.eeb7e275.svg"
-        }
-        ,
-        89492: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/icPause.18cb4b18.svg"
-        }
-        ,
-        42995: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/icTabStatistic.242083eb.svg"
-        }
-        ,
-        28812: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/level.db4dd860.svg"
-        }
-        ,
         1552: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/bgActionButton.b5ff3b72.svg"
@@ -2529,7 +2583,7 @@
             t.exports = i.p + "static/images/btnBarrelUp.300e56c4.svg"
         }
         ,
-        91512: (t, n, i) => {
+        69131: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/btnChat.ad30f873.svg"
         }
@@ -2572,76 +2626,6 @@
         62375: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/btnSuicide.dd44fd95.svg"
-        }
-        ,
-        99685: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/actionLog.ae8aa9d8.svg"
-        }
-        ,
-        93427: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/barrelDown.4b52505a.svg"
-        }
-        ,
-        55532: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/barrelUp.0faca85e.svg"
-        }
-        ,
-        89372: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/centralIndicators.d32f0416.svg"
-        }
-        ,
-        82977: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/chat.c19fd610.svg"
-        }
-        ,
-        56396: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/grenade.2f833b44.svg"
-        }
-        ,
-        61042: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/movementJoystick.441bcb3d.svg"
-        }
-        ,
-        1127: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/overdrive.c8de54da.svg"
-        }
-        ,
-        99921: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/radar.f5f57584.svg"
-        }
-        ,
-        86392: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/shoot.6d778f31.svg"
-        }
-        ,
-        71029: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/suicide.52b991f9.svg"
-        }
-        ,
-        82196: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/supplyGold.8c5f5094.svg"
-        }
-        ,
-        7161: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/supplyRepair.2bd316e0.svg"
-        }
-        ,
-        91487: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/supplyWheel.e02be46e.svg"
         }
         ,
         99128: (t, n, i) => {
@@ -2869,7 +2853,7 @@
             t.exports = i.p + "static/images/red-a.4bb56d31.svg"
         }
         ,
-        44892: (t, n, i) => {
+        22511: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/red-b.f8a6ca02.svg"
         }
@@ -3479,7 +3463,7 @@
             t.exports = i.p + "static/images/glowRight.9ebef986.svg"
         }
         ,
-        63008: (t, n, i) => {
+        40627: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/glowUp.a9b3c2e0.svg"
         }
@@ -3502,31 +3486,6 @@
         6458: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/petalUp.688b620f.svg"
-        }
-        ,
-        90400: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/GS.ed3b2cd8.svg"
-        }
-        ,
-        6230: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/hulls.b316ae80.svg"
-        }
-        ,
-        49081: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/kills.f9b82d9f.svg"
-        }
-        ,
-        66356: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/score.b3ca71b2.svg"
-        }
-        ,
-        93763: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/turrets.20be27f5.svg"
         }
         ,
         14144: (t, n, i) => {
@@ -3759,679 +3718,14 @@
             t.exports = i.p + "static/images/weapon-reload-indicator.eaa91ece.svg"
         }
         ,
-        37616: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/backgroundMessageError.baee9602.svg"
-        }
-        ,
-        1067: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_main_pick_match.f9aabe76.webp"
-        }
-        ,
-        2621: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_main_pick_pro_battles.015a9f72.webp"
-        }
-        ,
-        31190: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_pick_classic_mode.5dc581ba.webp"
-        }
-        ,
-        57992: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_pick_hyper_mode.27dc7d4e.webp"
-        }
-        ,
-        47883: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_pick_no_mode.d5231443.webp"
-        }
-        ,
-        86460: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_pick_parkour_mode.a2c99f60.webp"
-        }
-        ,
-        45063: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_pick_rail_master_mode.db01bc05.webp"
-        }
-        ,
-        58552: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_pick_sport_mode.86aa3d33.webp"
-        }
-        ,
-        44134: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/by_licanse.e9970436.webp"
-        }
-        ,
-        74120: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/checkMark.fb44274a.svg"
-        }
-        ,
-        62548: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/clans.49bb1e6b.webp"
-        }
-        ,
-        5072: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/closedEye.81774df3.svg"
-        }
-        ,
-        17503: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/dictator.6866e1f1.webp"
-        }
-        ,
-        13705: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/imageBackgroundMessageError.fd0932e0.svg"
-        }
-        ,
-        49861: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/notificationIncorrect.1a68f6d2.svg"
-        }
-        ,
-        65901: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/openedEye.5dd4f3ca.svg"
-        }
-        ,
-        11456: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/premium.b6cbf715.webp"
-        }
-        ,
-        49095: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/thunder.6b376479.webp"
-        }
-        ,
-        99813: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Star.c7800b6b.svg"
-        }
-        ,
-        91632: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Stars.acdc57f8.webp"
-        }
-        ,
-        39986: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/closeBattlePass.e733af0d.svg"
-        }
-        ,
-        15999: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Ellipse.66ef42c2.svg"
-        }
-        ,
-        11956: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/12plus.b4e02f93.svg"
-        }
-        ,
-        8295: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/discord.b0f86f53.svg"
-        }
-        ,
-        19177: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/facebook.b87b195e.svg"
-        }
-        ,
-        91867: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/instagram.0649a89c.svg"
-        }
-        ,
-        93776: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/telegram.4edaa934.svg"
-        }
-        ,
-        67120: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/vk.bdc179f9.svg"
-        }
-        ,
-        35084: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/youtube.e8845c71.svg"
-        }
-        ,
-        49302: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Sound_off.5ac5df07.svg"
-        }
-        ,
-        88256: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Sound_on.32428e4c.svg"
-        }
-        ,
-        75554: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/DE.9178862f.webp"
-        }
-        ,
-        39290: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/EN.b0dee268.webp"
-        }
-        ,
-        92761: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ES.7fdb295e.webp"
-        }
-        ,
-        63057: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/FR.9b609621.webp"
-        }
-        ,
-        64904: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/JA.5c0dcc9d.webp"
-        }
-        ,
-        87881: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/PL.0ffdffc0.webp"
-        }
-        ,
-        7110: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/PT_BR.12471229.webp"
-        }
-        ,
-        1900: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/RU.09428d33.webp"
-        }
-        ,
-        83257: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/linksContent.02da2fa8.svg"
-        }
-        ,
-        23023: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/linksContentActive.e8de3608.svg"
-        }
-        ,
-        46196: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/TDM.1cf8d4dc.svg"
-        }
-        ,
-        78030: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/TO_logo.75406b82.svg"
-        }
-        ,
-        52625: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/XP.0da1321c.webp"
-        }
-        ,
-        22511: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/addCoin.cc7a25d3.svg"
-        }
-        ,
-        33190: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/addCrystal.af9a397c.svg"
-        }
-        ,
-        39856: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/addRuby.ff47c8be.svg"
-        }
-        ,
-        22198: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/caution.b9d12319.svg"
-        }
-        ,
-        64093: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/close.0d5010ac.svg"
-        }
-        ,
-        86552: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/coin.3a16e831.svg"
-        }
-        ,
-        58489: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/coinBlack.1b17d813.svg"
-        }
-        ,
-        909: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/contract.90d7cd8f.svg"
-        }
-        ,
-        38229: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/cross.1a405977.svg"
-        }
-        ,
         91844: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/crystalSmall.242e6c15.svg"
         }
         ,
-        97669: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/crystalSmallBlack.10f468d7.svg"
-        }
-        ,
-        26779: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/deleteHoverModal.3aceb055.svg"
-        }
-        ,
-        69489: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/desktopNeedToUpdateContainerBackground.faa8e9d6.png"
-        }
-        ,
-        38814: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/forumLink.7c465511.svg"
-        }
-        ,
-        70556: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/fullscreen.0b4547f5.svg"
-        }
-        ,
-        91451: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/fullscreenOff.5691cd5d.svg"
-        }
-        ,
         10998: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/fund.7496d0c5.svg"
-        }
-        ,
-        17881: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/groupUser.67c9ec61.svg"
-        }
-        ,
-        47249: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/gs.d734490a.svg"
-        }
-        ,
-        13338: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/helpLink.713167bb.svg"
-        }
-        ,
-        28135: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconAnimationRankPng.a62462ee.webp"
-        }
-        ,
-        88309: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconBack.62869951.svg"
-        }
-        ,
-        98628: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconBackArrow.9f950ca9.svg"
-        }
-        ,
-        59859: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconButtonNext.ed3de493.svg"
-        }
-        ,
-        71422: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconButtonNextMedium.3f14fdb8.svg"
-        }
-        ,
-        51963: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconButtonPremium.bc17a592.svg"
-        }
-        ,
-        9045: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconDelete.b879b0ab.svg"
-        }
-        ,
-        70677: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconDeleteSelect.3aceb055.svg"
-        }
-        ,
-        19133: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuWar.ada9b0af.svg"
-        }
-        ,
-        88765: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuWarHover.4e013e6a.svg"
-        }
-        ,
-        39688: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconTankiOnline.2a9c236f.svg"
-        }
-        ,
-        49656: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/background.7b940177.webp"
-        }
-        ,
-        82452: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/logo.e64f36db.svg"
-        }
-        ,
-        99947: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/progress.9d48f262.png"
-        }
-        ,
-        64037: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/logOut.29b47580.svg"
-        }
-        ,
-        93137: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuChat.e48a39a4.svg"
-        }
-        ,
-        19183: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuClan.f01ae646.svg"
-        }
-        ,
-        75395: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuContainers.f960290f.svg"
-        }
-        ,
-        95902: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuFriends.28305317.svg"
-        }
-        ,
-        1988: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuGarage.0b623165.svg"
-        }
-        ,
-        22506: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuNews.6efe9ae3.svg"
-        }
-        ,
-        87934: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuQuests.54801b8b.svg"
-        }
-        ,
-        78400: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuSettings.cc00d08a.svg"
-        }
-        ,
-        10050: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconLobbyMenuStore.e755fe14.svg"
-        }
-        ,
-        95085: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/info.78c2fe48.svg"
-        }
-        ,
-        9780: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/videoplay.79570900.gif"
-        }
-        ,
-        53734: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/notification.d58f4b55.svg"
-        }
-        ,
-        68999: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/notificationGreen.c8b02578.svg"
-        }
-        ,
-        11650: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/notification_red.83d7ccbe.svg"
-        }
-        ,
-        57127: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/leftBorderPremium.c8dfe913.svg"
-        }
-        ,
-        68960: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/premium.c9ee3121.svg"
-        }
-        ,
-        87835: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/premiumIcon.e8725ab0.svg"
-        }
-        ,
-        73050: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rightBorderPremium.c7c1ffc9.svg"
-        }
-        ,
-        18484: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rating.4b7ee4c0.svg"
-        }
-        ,
-        22530: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/happyTanker.f8d4145e.webp"
-        }
-        ,
-        15287: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/happyTankerBalloon.92acb751.svg"
-        }
-        ,
-        12285: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/repatriation.2635ce55.webp"
-        }
-        ,
-        32475: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ruby.ce62efbc.svg"
-        }
-        ,
-        19968: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rubyBlack.1ce20c6c.svg"
-        }
-        ,
-        47142: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/to_bg.75ec97d8.webp"
-        }
-        ,
-        99757: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/tutorial_empty.93104842.webp"
-        }
-        ,
-        79167: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/wiki.948142b8.svg"
-        }
-        ,
-        77939: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/icPlusHover.99676da7.svg"
-        }
-        ,
-        30786: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_delete_from_group.bdff6efa.svg"
-        }
-        ,
-        41659: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_leader_icon.fc9bf7e6.svg"
-        }
-        ,
-        53767: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_leave_group.953ecad9.svg"
-        }
-        ,
-        54365: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_not_ready.506d2b28.svg"
-        }
-        ,
-        89546: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_plus.1fe1d221.svg"
-        }
-        ,
-        81739: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ic_ready.600792d6.svg"
-        }
-        ,
-        17224: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/selected_icon.4ae6f356.svg"
-        }
-        ,
-        73256: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/spectator_icon.c954459b.svg"
-        }
-        ,
-        36029: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Play_event_lock.0773cb17.webp"
-        }
-        ,
-        34485: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Play_probattles_lock.07095d50.webp"
-        }
-        ,
-        8429: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/as.c3cecf7b.webp"
-        }
-        ,
-        78543: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/background.a3fa0a8c.svg"
-        }
-        ,
-        56102: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/cp.164fcfb0.webp"
-        }
-        ,
-        96744: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ctf.2247dcbd.webp"
-        }
-        ,
-        90674: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/dm.90f66d7d.webp"
-        }
-        ,
-        45088: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/jgr.d5fe334a.webp"
-        }
-        ,
-        35321: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/matchmakingModes.f8cd9b9a.webp"
-        }
-        ,
-        62624: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rugby.705f26cb.webp"
-        }
-        ,
-        25230: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/sge.fd9a7abf.webp"
-        }
-        ,
-        15756: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/tdm.85ccb0d2.webp"
-        }
-        ,
-        8892: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Background.975d9b65.webp"
-        }
-        ,
-        37972: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ClanYeLine.8f5c210d.webp"
-        }
-        ,
-        6898: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Clan_image.545f6980.webp"
-        }
-        ,
-        33429: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Clan_image_zh.e0f14e78.webp"
-        }
-        ,
-        89132: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/checker-2.981b617f.webp"
-        }
-        ,
-        41316: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/close.310f9cc1.webp"
-        }
-        ,
-        18907: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/crystals.7f583fd7.webp"
         }
         ,
         35862: (t, n, i) => {
@@ -4454,84 +3748,9 @@
             t.exports = i.p + "static/images/shot_smoke.c472b140.webp"
         }
         ,
-        67773: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/timer.880064de.webp"
-        }
-        ,
         67886: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/all_modes.caa57f85.svg"
-        }
-        ,
-        22134: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/battle_display_type.ca04f96e.svg"
-        }
-        ,
-        33080: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/chat.f133e888.svg"
-        }
-        ,
-        30152: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/createBattle.305f2aa7.svg"
-        }
-        ,
-        27696: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/clock.50b5f5c8.svg"
-        }
-        ,
-        76924: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/players.210cc366.svg"
-        }
-        ,
-        2858: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/experience.402435da.svg"
-        }
-        ,
-        2277: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconActiveProgressBar.ef307714.svg"
-        }
-        ,
-        34015: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconCard.23a678cb.svg"
-        }
-        ,
-        28452: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconExperiencePremium.31caa4ad.svg"
-        }
-        ,
-        64350: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconPlayer.f9b82d9f.svg"
-        }
-        ,
-        9181: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconScore.8bd37703.svg"
-        }
-        ,
-        44902: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconTime.d3b18254.svg"
-        }
-        ,
-        49022: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ar_mode.d2c5d6eb.svg"
-        }
-        ,
-        25087: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/asl_mode.42f836ca.svg"
         }
         ,
         75890: (t, n, i) => {
@@ -4554,84 +3773,9 @@
             t.exports = i.p + "static/images/jg_mode.025a9047.svg"
         }
         ,
-        88926: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/qb_mode.71a6ec19.svg"
-        }
-        ,
-        42212: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rgb_mode.66312ba3.svg"
-        }
-        ,
-        83642: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/sge_mode.4a6035e8.svg"
-        }
-        ,
-        27329: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ssp_mode.2d98387e.svg"
-        }
-        ,
         75668: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/tdm_mode.ef239dba.svg"
-        }
-        ,
-        10110: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/ourBattle.edd5c0fd.svg"
-        }
-        ,
-        51682: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/search.c8cd7841.svg"
-        }
-        ,
-        13388: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/selectCard.5b203dbe.svg"
-        }
-        ,
-        76885: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/spectator.203aaac5.svg"
-        }
-        ,
-        33134: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/autumn_day.ef311d44.svg"
-        }
-        ,
-        83499: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/space.2296d977.svg"
-        }
-        ,
-        78959: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/summer_day.14c71f7e.svg"
-        }
-        ,
-        19861: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/summer_evening.a77627d2.svg"
-        }
-        ,
-        51155: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/summer_night.6fcd3251.svg"
-        }
-        ,
-        49031: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/winter_day.618f73d3.svg"
-        }
-        ,
-        8587: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/winter_night.93a18e7a.svg"
         }
         ,
         33300: (t, n, i) => {
@@ -5564,229 +4708,9 @@
             t.exports = i.p + "static/images/31.8a5d8a3d.webp"
         }
         ,
-        6511: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Reset.d3c792f7.svg"
-        }
-        ,
-        64379: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Double armor.064daed8.svg"
-        }
-        ,
-        53749: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Double damage.868dc39c.svg"
-        }
-        ,
-        55271: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Double speed.b917b469.svg"
-        }
-        ,
-        69604: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Gold box.6efd6936.svg"
-        }
-        ,
-        22512: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Mine.cf7c3a30.svg"
-        }
-        ,
-        64414: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Repair.b9f61bf0.svg"
-        }
-        ,
-        5012: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Ultimate.94f7d547.svg"
-        }
-        ,
-        82126: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/back.72d79619.svg"
-        }
-        ,
-        17299: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/redo.02c3881d.svg"
-        }
-        ,
-        4432: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/reset.b088bab6.svg"
-        }
-        ,
-        65424: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/google_play.856fdcf9.webp"
-        }
-        ,
-        2417: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/twitch.d986fa35.webp"
-        }
-        ,
-        39612: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/coin_provider.aa180209.webp"
-        }
-        ,
-        57050: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/discount.f7c3655a.svg"
-        }
-        ,
-        33332: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/eula_black.967150eb.svg"
-        }
-        ,
-        21453: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/eula_light.6eee1ac4.svg"
-        }
-        ,
-        98800: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/instruction_link.9dc8f4ad.svg"
-        }
-        ,
-        4112: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/policy_link.692055b6.svg"
-        }
-        ,
-        62335: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/gradient.a9e5f61b.svg"
-        }
-        ,
-        82886: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/iconSold.8912e66f.svg"
-        }
-        ,
         66558: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/paymentLinkLoader.53ad75db.svg"
-        }
-        ,
-        84794: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/paymentLinkLoaderDark.437a23e0.svg"
-        }
-        ,
-        49571: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/shop.96f2309a.svg"
-        }
-        ,
-        19800: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/DoubleDamage.c601a4b1.svg"
-        }
-        ,
-        35073: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/GoldBox.61e0017c.svg"
-        }
-        ,
-        13817: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Mine.230cdfaa.svg"
-        }
-        ,
-        53926: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Nuclear.c3d2e8f1.svg"
-        }
-        ,
-        50191: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Repair.13e5e240.svg"
-        }
-        ,
-        80467: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Shield.6319a2d0.svg"
-        }
-        ,
-        86217: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Speed.3b207b8e.svg"
-        }
-        ,
-        1911: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Add-friend.137d3601.svg"
-        }
-        ,
-        3561: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/KDRatio.4631fe85.svg"
-        }
-        ,
-        25793: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Star.5a891709.svg"
-        }
-        ,
-        66129: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/StarMission.d11624d7.svg"
-        }
-        ,
-        5398: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/TankDestroyed.ac841eff.svg"
-        }
-        ,
-        35256: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/TankLost.821b948a.svg"
-        }
-        ,
-        7112: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/arrow-gray.75f5f8a5.svg"
-        }
-        ,
-        44188: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/arrow.ed441f46.svg"
-        }
-        ,
-        13897: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/activeFilterDown.18a99c74.webp"
-        }
-        ,
-        13200: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/activeFilterUp.33d436d5.webp"
-        }
-        ,
-        33391: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/down.481b2e2f.svg"
-        }
-        ,
-        24062: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/noActiveFilterDown.640fdc5c.webp"
-        }
-        ,
-        21727: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/noActiveFilterUp.691d81ec.webp"
-        }
-        ,
-        82400: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/up.743d6975.svg"
         }
         ,
         74210: (t, n, i) => {
@@ -5794,7 +4718,7 @@
             t.exports = i.p + "static/images/Autobalance.e011e48f.svg"
         }
         ,
-        27527: (t, n, i) => {
+        49908: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/BonusBoxes.59bbac9e.svg"
         }
@@ -5839,11 +4763,6 @@
             t.exports = i.p + "static/images/Overdrives.ac06ab56.svg"
         }
         ,
-        63472: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/Private.fcf5dd7d.svg"
-        }
-        ,
         40393: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/ProtectionModules.41103d70.svg"
@@ -5884,34 +4803,9 @@
             t.exports = i.p + "static/images/trajectorySegment.f7253a85.svg"
         }
         ,
-        14815: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/exitFullScreenSmall.596c7913.svg"
-        }
-        ,
-        14239: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/fullScreenSmall.d004f72f.svg"
-        }
-        ,
-        15654: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/timeleftIcon.72fd3546.svg"
-        }
-        ,
         46421: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/right_angle_arrow.9ee896ee.webp"
-        }
-        ,
-        17966: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/tutorial_message_bg.47b4334a.webp"
-        }
-        ,
-        86738: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/tutorial_score_bg.752ebaf3.webp"
         }
         ,
         40891: (t, n, i) => {
@@ -5929,84 +4823,49 @@
             t.exports = i.p + "static/tank_pointer.328bd668.3ds"
         }
         ,
-        48681: (t, n, i) => {
+        39368: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/sound/battle_finish.c9d78af9.mp3"
+            t.exports = i.p + "static/translations/de.b8313343.json"
         }
         ,
-        53653: (t, n, i) => {
+        66187: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/sound/epic.4081fb8e.mp3"
+            t.exports = i.p + "static/translations/en-US.0e3e757a.json"
         }
         ,
-        27889: (t, n, i) => {
+        75974: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/sound/legendary.0bab25ea.mp3"
+            t.exports = i.p + "static/translations/es-ES.b8313343.json"
         }
         ,
-        59910: (t, n, i) => {
+        80399: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/sound/rare.fe0da801.mp3"
+            t.exports = i.p + "static/translations/fr.b8313343.json"
         }
         ,
-        11561: (t, n, i) => {
+        57826: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/sound/show_container_item.12a351e5.mp3"
+            t.exports = i.p + "static/translations/ja.b8313343.json"
         }
         ,
-        97165: (t, n, i) => {
+        77911: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/sound/standard.dad493f6.mp3"
+            t.exports = i.p + "static/translations/pl.b8313343.json"
         }
         ,
-        28296: (t, n, i) => {
+        44214: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/sound/kode_entered.97d18c3d.mp3"
+            t.exports = i.p + "static/translations/pt-BR.b8313343.json"
         }
         ,
-        46431: (t, n, i) => {
+        61974: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/de.1c3f9f86.json"
+            t.exports = i.p + "static/translations/ru.bb0190de.json"
         }
         ,
-        85858: (t, n, i) => {
+        24349: (t, n, i) => {
             "use strict";
-            t.exports = i.p + "static/translations/en-US.909b5410.json"
-        }
-        ,
-        98959: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/translations/es-ES.bb38ea9f.json"
-        }
-        ,
-        36756: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/translations/fr.17a2a386.json"
-        }
-        ,
-        24621: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/translations/ja.6f4de4d8.json"
-        }
-        ,
-        72048: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/translations/pl.27795baa.json"
-        }
-        ,
-        39639: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/translations/pt-BR.3961b041.json"
-        }
-        ,
-        19809: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/translations/ru.f814e91c.json"
-        }
-        ,
-        19144: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/translations/zh-CN.e15ce78b.json"
+            t.exports = i.p + "static/translations/zh-CN.b8313343.json"
         }
         ,
         25630: (t, n, i) => {
@@ -6022,84 +4881,4 @@
         57839: (t, n, i) => {
             "use strict";
             t.exports = i.p + "static/images/circle.ff0630f2.webp"
-        }
-        ,
-        80636: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/epic.0cdb2e49.mp4"
-        }
-        ,
-        8913: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/epic_light.80a0fc79.mp4"
-        }
-        ,
-        21580: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/legendary.e02a068d.mp4"
-        }
-        ,
-        93697: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/legendary_light.61bd371f.mp4"
-        }
-        ,
-        76447: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rare.8ff37071.mp4"
-        }
-        ,
-        26190: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/rare_light.02940a30.mp4"
-        }
-        ,
-        69756: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/standard.c8fc3b20.mp4"
-        }
-        ,
-        38385: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/images/standard_light.51c2adb6.mp4"
-        }
-        ,
-        76007: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/videos/epic.0c029ecd.webm"
-        }
-        ,
-        77124: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/videos/epic_light.9b73130b.webm"
-        }
-        ,
-        73257: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/videos/legendary.3b4fd9f5.webm"
-        }
-        ,
-        28286: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/videos/legendary_light.f2729998.webm"
-        }
-        ,
-        5370: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/videos/rare.b7ef6294.webm"
-        }
-        ,
-        68289: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/videos/rare_light.0848f114.webm"
-        }
-        ,
-        65983: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/videos/standard.cdd9ebdc.webm"
-        }
-        ,
-        54780: (t, n, i) => {
-            "use strict";
-            t.exports = i.p + "static/videos/standard_light.6170e3b4.webm"
         }
